@@ -2215,3 +2215,7 @@ repos:
     info: fyne(golang gui) demo
     developer: myml
     developer_id: "13045857"
+  - repo: ai.opencode.desktop
+    info: OpenCode Desktop
+    developer: myml
+    developer_id: "13045857"
