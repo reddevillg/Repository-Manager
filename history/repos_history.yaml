@@ -2219,3 +2219,7 @@ repos:
     info: OpenCode Desktop
     developer: myml
     developer_id: "13045857"
+  - repo: com.zhaoxin.driver.cx4
+    info: Zhaoxin cx4 graphics driver
+    developer: dengbo11
+    developer_id: "79958313"
